@@ -1,0 +1,10 @@
+D:\Kianna\Programming\EDP\Group 7\GUI\Group 7 - GUI\Group 7 - GUI\bin\Debug\Group 7 - GUI.exe.config
+D:\Kianna\Programming\EDP\Group 7\GUI\Group 7 - GUI\Group 7 - GUI\bin\Debug\Group 7 - GUI.exe
+D:\Kianna\Programming\EDP\Group 7\GUI\Group 7 - GUI\Group 7 - GUI\bin\Debug\Group 7 - GUI.pdb
+D:\Kianna\Programming\EDP\Group 7\GUI\Group 7 - GUI\Group 7 - GUI\obj\Debug\Group 7 - GUI.csproj.AssemblyReference.cache
+D:\Kianna\Programming\EDP\Group 7\GUI\Group 7 - GUI\Group 7 - GUI\obj\Debug\Group_7___GUI.Form1.resources
+D:\Kianna\Programming\EDP\Group 7\GUI\Group 7 - GUI\Group 7 - GUI\obj\Debug\Group_7___GUI.Properties.Resources.resources
+D:\Kianna\Programming\EDP\Group 7\GUI\Group 7 - GUI\Group 7 - GUI\obj\Debug\Group 7 - GUI.csproj.GenerateResource.cache
+D:\Kianna\Programming\EDP\Group 7\GUI\Group 7 - GUI\Group 7 - GUI\obj\Debug\Group 7 - GUI.csproj.CoreCompileInputs.cache
+D:\Kianna\Programming\EDP\Group 7\GUI\Group 7 - GUI\Group 7 - GUI\obj\Debug\Group 7 - GUI.exe
+D:\Kianna\Programming\EDP\Group 7\GUI\Group 7 - GUI\Group 7 - GUI\obj\Debug\Group 7 - GUI.pdb
